@@ -1,5 +1,4 @@
-<img src="https://ibb.co/dGy277B" alt="profileimg">
-
+<a href="https://ibb.co/dGy277B"><img src="https://i.ibb.co/zGwRNNs/Hi-I-m-Durga-Prasad.gif" alt="Hi-I-m-Durga-Prasad" border="0"></a>
 <h1 align="center">Hi 👋, I'm Durga Prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
