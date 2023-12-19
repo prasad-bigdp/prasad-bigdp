@@ -1,3 +1,5 @@
+<img src="./Hi,I’m Durga Prasad.gif" alt="profile img" >
+
 <h1 align="center">Hi 👋, I'm Durga Prasad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
